@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Review 5 Artikel Jurnal JOINTECS
 
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Pengantar Teknik Informatika.
@@ -31,4 +30,3 @@ Berikut adalah daftar 5 artikel dari Jurnal JOINTECS yang telah diringkas:
 
 =======
 # PTI-Review-JOINTECS-251451016-MuhamadIlhamSyahidRudianto
->>>>>>> 813e3e0d5eea9166ecc4cf42a58e480be9ab6a01
